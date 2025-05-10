@@ -15,4 +15,12 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kumarswamimulluri/leetcode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
