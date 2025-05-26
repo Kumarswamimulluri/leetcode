@@ -11,6 +11,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kumarswamimulluri/leetcode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -20,9 +21,14 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | ------- |
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
+| [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
