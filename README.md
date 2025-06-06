@@ -22,6 +22,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumarswamimulluri/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,4 +51,9 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumarswamimulluri/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumarswamimulluri/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
