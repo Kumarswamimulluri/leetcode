@@ -37,8 +37,17 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kumarswamimulluri/leetcode/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kumarswamimulluri/leetcode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
