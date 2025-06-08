@@ -38,6 +38,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kumarswamimulluri/leetcode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -51,12 +52,14 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumarswamimulluri/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
