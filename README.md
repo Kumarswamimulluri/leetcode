@@ -23,6 +23,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumarswamimulluri/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
@@ -50,12 +51,14 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kumarswamimulluri/leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
+| [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -81,6 +84,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
