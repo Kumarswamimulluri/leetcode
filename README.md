@@ -19,6 +19,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Kumarswamimulluri/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -89,6 +91,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Kumarswamimulluri/leetcode/tree/master/0455-assign-cookies) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
