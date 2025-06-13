@@ -57,6 +57,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Stack
@@ -66,6 +67,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Hash Table
 |  |
@@ -104,6 +106,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0134-gas-station](https://github.com/Kumarswamimulluri/leetcode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Kumarswamimulluri/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Kumarswamimulluri/leetcode/tree/master/0890-lemonade-change) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
@@ -144,4 +147,5 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
