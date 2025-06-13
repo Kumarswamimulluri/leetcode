@@ -23,6 +23,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Kumarswamimulluri/leetcode/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Kumarswamimulluri/leetcode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -138,5 +140,6 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
