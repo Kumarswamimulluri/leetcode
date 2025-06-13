@@ -32,6 +32,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0455-assign-cookies](https://github.com/Kumarswamimulluri/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0890-lemonade-change](https://github.com/Kumarswamimulluri/leetcode/tree/master/0890-lemonade-change) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumarswamimulluri/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -103,6 +104,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0134-gas-station](https://github.com/Kumarswamimulluri/leetcode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Kumarswamimulluri/leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Kumarswamimulluri/leetcode/tree/master/0890-lemonade-change) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
