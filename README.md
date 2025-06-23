@@ -21,6 +21,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Kumarswamimulluri/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
@@ -46,6 +47,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Kumarswamimulluri/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/Kumarswamimulluri/leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
