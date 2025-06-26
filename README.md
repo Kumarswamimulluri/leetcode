@@ -69,6 +69,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kumarswamimulluri/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kumarswamimulluri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -161,4 +162,16 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kumarswamimulluri/leetcode/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kumarswamimulluri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kumarswamimulluri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kumarswamimulluri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
