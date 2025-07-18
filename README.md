@@ -25,6 +25,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Kumarswamimulluri/leetcode/tree/master/0134-gas-station) |
@@ -153,12 +154,14 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Kumarswamimulluri/leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
