@@ -7,7 +7,7 @@ class Solution {
         for(int i = n-2;i >= 0;i--){
             if(nums[i] < nums[i+1]){
                 ind = i;
-                break;
+                break; // it will break at the first decreasing point it will not going to                     // check for another
             }
         }
         // if there is no decresing ele then it will be last permtation simply reverse that
@@ -22,7 +22,8 @@ class Solution {
                 break;
             }
         }
-        reverse(nums,ind+1,n-1);
+        // Reverse the part after index `ind` to get next smallest order
+        // reverse(nums,ind+1,n-1);
     }
     private void reverse(int[] nums,int start,int end){
         while(start < end){
