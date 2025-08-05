@@ -20,6 +20,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Kumarswamimulluri/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
@@ -80,6 +81,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
