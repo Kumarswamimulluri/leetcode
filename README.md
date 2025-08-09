@@ -7,6 +7,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kumarswamimulluri/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Kumarswamimulluri/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Kumarswamimulluri/leetcode/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -18,6 +19,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kumarswamimulluri/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Kumarswamimulluri/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Kumarswamimulluri/leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
