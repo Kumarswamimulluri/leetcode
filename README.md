@@ -13,10 +13,12 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kumarswamimulluri/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Kumarswamimulluri/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kumarswamimulluri/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Kumarswamimulluri/leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -193,4 +195,8 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kumarswamimulluri/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kumarswamimulluri/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
