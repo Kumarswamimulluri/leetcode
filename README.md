@@ -68,6 +68,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Kumarswamimulluri/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Kumarswamimulluri/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -91,6 +92,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0001-two-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Kumarswamimulluri/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -161,6 +163,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | ------- |
 | [0075-sort-colors](https://github.com/Kumarswamimulluri/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Kumarswamimulluri/leetcode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Kumarswamimulluri/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Kumarswamimulluri/leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
