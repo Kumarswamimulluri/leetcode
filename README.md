@@ -35,6 +35,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0075-sort-colors](https://github.com/Kumarswamimulluri/leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Kumarswamimulluri/leetcode/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumarswamimulluri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -60,6 +61,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Kumarswamimulluri/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Kumarswamimulluri/leetcode/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumarswamimulluri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Kumarswamimulluri/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -158,6 +160,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumarswamimulluri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
