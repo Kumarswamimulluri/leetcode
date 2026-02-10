@@ -26,6 +26,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | ------- |
 | [0001-two-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kumarswamimulluri/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
@@ -56,6 +57,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Kumarswamimulluri/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
@@ -166,6 +168,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Kumarswamimulluri/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Kumarswamimulluri/leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Kumarswamimulluri/leetcode/tree/master/0242-valid-anagram) |
