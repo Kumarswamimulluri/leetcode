@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int[] sorted = nums.clone();
         Arrays.sort(nums);
-
+        
         int left = 0, right = n-1;
         while(left < right && nums[left] == sorted[left]){
             left++;
