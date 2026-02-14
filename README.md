@@ -62,6 +62,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kumarswamimulluri/leetcode/tree/master/0016-3sum-closest) |
@@ -85,6 +86,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Kumarswamimulluri/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
@@ -200,6 +202,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
