@@ -47,6 +47,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/Kumarswamimulluri/leetcode/tree/master/0890-lemonade-change) |
@@ -132,6 +133,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0076-minimum-window-substring](https://github.com/Kumarswamimulluri/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
