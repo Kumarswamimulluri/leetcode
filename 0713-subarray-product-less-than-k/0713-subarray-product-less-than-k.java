@@ -16,20 +16,3 @@ class Solution {
         return count;
     }
 }
-// if(k <= 0) return 0;
-
-        int n = nums.length;
-        int count = 0;
-        int left = 0;
-        int product = 1;
-
-        for(int right = 0;right < n;right++){
-            product *= nums[right];
-
-            while(product >= k && left <= right){
-                product /= nums[left];
-                left++;
-            }
-            count += right - left + 1;
-        }
-        return count;
