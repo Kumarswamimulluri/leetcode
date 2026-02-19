@@ -51,6 +51,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0713-subarray-product-less-than-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/Kumarswamimulluri/leetcode/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/Kumarswamimulluri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -124,6 +125,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0242-valid-anagram](https://github.com/Kumarswamimulluri/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Kumarswamimulluri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kumarswamimulluri/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -136,6 +138,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0239-sliding-window-maximum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Kumarswamimulluri/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Kumarswamimulluri/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Kumarswamimulluri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumarswamimulluri/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
