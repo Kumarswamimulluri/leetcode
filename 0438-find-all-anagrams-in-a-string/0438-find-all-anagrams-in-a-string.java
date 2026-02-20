@@ -8,14 +8,15 @@ class Solution {
         for(char c : p.toCharArray()){
             pCount[c - 'a']++;
         }
-
         int windowSize = p.length();
+
         for(int i = 0;i < s.length();i++){
             windowCount[s.charAt(i) - 'a']++;
 
             if(i >= windowSize){
                 windowCount[s.charAt(i - windowSize) - 'a']--;
             }
+
             if(Arrays.equals(pCount,windowCount)){
                 res.add(i - windowSize + 1);
             }
