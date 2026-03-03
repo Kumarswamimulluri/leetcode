@@ -39,6 +39,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0088-merge-sorted-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Kumarswamimulluri/leetcode/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumarswamimulluri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -225,6 +226,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0053-maximum-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Kumarswamimulluri/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0845-longest-mountain-in-array) |
