@@ -58,6 +58,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [1004-max-consecutive-ones-iii](https://github.com/Kumarswamimulluri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kumarswamimulluri/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumarswamimulluri/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
@@ -234,6 +235,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0678-valid-parenthesis-string](https://github.com/Kumarswamimulluri/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
