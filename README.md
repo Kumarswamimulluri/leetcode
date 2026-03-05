@@ -13,6 +13,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kumarswamimulluri/leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Kumarswamimulluri/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Kumarswamimulluri/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
@@ -207,6 +208,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Kumarswamimulluri/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumarswamimulluri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Kumarswamimulluri/leetcode/tree/master/0704-binary-search) |
