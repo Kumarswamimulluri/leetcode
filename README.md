@@ -30,6 +30,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0015-3sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kumarswamimulluri/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Kumarswamimulluri/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
@@ -208,6 +209,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Kumarswamimulluri/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumarswamimulluri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kumarswamimulluri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
