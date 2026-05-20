@@ -39,6 +39,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0075-sort-colors](https://github.com/Kumarswamimulluri/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kumarswamimulluri/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kumarswamimulluri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Kumarswamimulluri/leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -237,6 +238,7 @@ Welcome to my personal collection of LeetCode problem solutions. This repository
 | [0042-trapping-rain-water](https://github.com/Kumarswamimulluri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kumarswamimulluri/leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kumarswamimulluri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumarswamimulluri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kumarswamimulluri/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Kumarswamimulluri/leetcode/tree/master/0647-palindromic-substrings) |
